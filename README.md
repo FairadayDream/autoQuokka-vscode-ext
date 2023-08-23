@@ -1,2 +1,2 @@
 # vscode-extension
-automate Quokka upon cd'ing into JS. There is a setting in the extension quokka itself to auto turnon the feature using regex for js files recognition too.
+automate Quokka upon cd'ing into JS. There is a setting in the extension quokka itself to auto turnon the feature using regex for js files recognition as well.
